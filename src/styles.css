@@ -41,6 +41,7 @@ section img.background {
   top: 0;
   width: 100vmax;
   z-index: -1;
+  rotate: 90;
 }
 
 h1 {
